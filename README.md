@@ -1,2 +1,2 @@
 # GITTEST
-this repo is created to test various command of git
+this repo is created to test various commands of git
